@@ -29,46 +29,8 @@ Once you have the application up and running, you can start using it by followin
 8. To edit a habit, click on the "Edit" icon next to it.
 # Folder Structure
 
-Habit Tracker
-    |
-    |               |--->css
-    |--->assets---->|--->img
-    |               |---> js
-    |
-    |               |--->flashMiddleware.js
-    |--->config---->|--->mongoose.js
-    |               |--->passport_local.js
-    |
-    |                  |-->habit_controller.js
-    |--->controllers-->|-->home_controller.js
-    |                  |-->user_controller.js
-    |
-    |               |-->habit.js
-    |--->models---->|
-    |               |-->user.js
-    |
-    |              
-    |               |-->habit.js
-    |--->routes---->|-->index.js
-    |               |-->user.js
-    |
-    |              
-    |              |--->_header.ejs
-    |              |--->404.ejs
-    |              |--->daily_view.ejs
-    |              |--->forget_password.ejs
-    |--->views---->|--->home.ejs
-    |              |--->layout.ejs
-    |              |--->user_sign_in.ejs
-    |              |--->user_sign_up.ejs
-    |              |--->weekly_view.ejs
-    |
-    |-->node_modules
-    |-->.gitignore
-    |--> index.js
-    |--> package-lock.json
-    |-->package.json
-    
+![Screenshot 2023-08-13 154515](https://github.com/amanbhadouria99/HabitTracker/assets/111181618/6cd6c13a-2632-4523-be02-623eb5b97537)
+
     
 # Screenshots
 Home Page
